@@ -31,4 +31,4 @@ In the seventh grade I was accepted into the group that programmed and maintaine
 
 Between eighth and ninth grade I released a simple game on android and wrote a prototype of a chat bot in python, but since I found it too complicated I decided to take a break from programming.
 
-In ninth grade I was invited to join a more advanced AI4Y intelligence project in which my team and I decided to write an AI based on KNN that would return your disease depending on your symptoms.
+In ninth grade I was invited to join a more advanced AI project, [AI4Y](https://www.intel.com/content/www/us/en/corporate/artificial-intelligence/ai-for-youth.html) in which my team and I decided to write an AI based on KNN that would return your disease depending on your symptoms.

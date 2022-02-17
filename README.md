@@ -20,8 +20,9 @@ but I also have experience in the following technologies and languages:
 - [MarkDown](https://en.wikipedia.org/wiki/Markdown)
 - [Linux](https://www.linux.org/)
 - [Windows](https://www.microsoft.com/en-us/windows/)
-- [Git](https://git-scm.com/)
+- [GitHub Copilot](https://copilot.github.com/)
 - [GitHub](https://github.com/)
+- [Git](https://git-scm.com/)
 
 # A little bit about me:
 

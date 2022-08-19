@@ -1,5 +1,5 @@
 <div align="center">
-   <img src="https://github.com/Denloob.png" height="auto" width="170" style="clip-path:circle()" />
+   <img src="https://images.weserv.nl/?url=https://github.com/Denloob.png?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" height="auto" width="170" />
    <hr />
 
    <a href="https://discord.com/users/400619493539315713">

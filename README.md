@@ -1,7 +1,5 @@
-<style>
-</style>
 <div align="center">
-   <img src="https://github.com/Denloob.png" height="auto" width="170" style="border-radius:50%" />
+   <img src="https://github.com/Denloob.png" height="auto" width="170" style="clip-path:circle()" />
    <hr />
 
    <a href="https://discord.com/users/400619493539315713">

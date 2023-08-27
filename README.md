@@ -13,7 +13,7 @@
     <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/White/Gmail_white.png?raw=true" height="auto" width="50" alt="Mail me"/>
    </a>
    <a href="https://ctftime.org/team/183232">
-    <img src="https://avatars.githubusercontent.com/u/2167643?s=200&v=4" height="auto" width="50" alt="My CTF team"/>
+    <img src="images/ctftime.png" height="auto" width="50" alt="My CTF team"/>
    </a>
 </div>
 

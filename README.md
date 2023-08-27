@@ -9,7 +9,7 @@
    <a href="https://github.com/Denloob">
     <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/White/Github_white.png?raw=true" height="auto" width="50" alt="My Github"/>
    </a>
-   <a href="mailto:me@denloob.tk" title="me@denloob.tk">
+   <a href="mailto:den@denloob.uk" title="den@denloob.uk">
     <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/White/Gmail_white.png?raw=true" height="auto" width="50" alt="Mail me"/>
    </a>
 </div>

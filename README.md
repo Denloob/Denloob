@@ -12,18 +12,27 @@
    <a href="mailto:den@denloob.uk" title="den@denloob.uk">
     <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/White/Gmail_white.png?raw=true" height="auto" width="50" alt="Mail me"/>
    </a>
-   <a href="https://ctftime.org/team/183232">
+   <a href="https://ctftime.org/user/133704">
     <img src="images/ctftime.png" height="auto" width="50" alt="My CTF team"/>
    </a>
 </div>
 
 ## About Me
 
-Hi! I'm Den, and I am in love with solving problems on a computer. I enjoy spending time learning anything and everything, starting from centering a div, to why you need to align the stack to `system('/bin/sh')` after overwriting the RIP.
+Hi! I enjoy learning _**anything**_ and _**everything**_, from *why ROPing into GLIBC often requires an aligned stack* to *centering a div*.
 
-I'm excited to bring my skills, experience and passion to the next challenge and am always open to discussing potential projects or opportunities to collaborate. Feel free to reach out if you'd like to chat or have any questions!
+I am open to discussing potential projects or opportunities to collaborate and am excited to bring my knowledge, passion and experience to the next challenge. Feel free to reach out if you want to chat, have any questions or want to play some CTFs :D
 
-## My skills
+## My Skills
 
-One can not express his skill set using some cute devicons.
-If you want to know my knowns, visit the [repos](https://github.com/Denloob?tab=repositories) tab.
+One can not express their skill set using some *cute* devicons. \
+If you want to **know my knowns**, visit the [**repos**](https://github.com/Denloob?tab=repositories) tab.
+
+### Repo Highlights
+- [**CTF** Writeups](https://github.com/Denloob/writeups)
+- [**Go** TCP intercepting proxy](https://github.com/Denloob/protocol-proxy)
+- [**C++** CTF manager bot](https://github.com/Denloob/flag-catcher)
+- [**C** (Lindenmayer) Rewriting System Engine](https://github.com/Denloob/l-system)
+- [**AI** sign language recognition](https://github.com/aslearn-AI4Y/aslearn)
+
+Also, below are my most popular repos.

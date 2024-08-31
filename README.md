@@ -32,7 +32,7 @@ If you want to **know my knowns**, visit the [**repos**](https://github.com/Denl
 - [**CTF** Writeups](https://github.com/Denloob/writeups)
 - [**Go** TCP intercepting proxy](https://github.com/Denloob/protocol-proxy)
 - [**C++** CTF manager bot](https://github.com/Denloob/flag-catcher)
-- [**C** (Lindenmayer) Rewriting System Engine](https://github.com/Denloob/l-system)
+- [**C** (Lindenmayer) Rewriting System Engine](https://github.com/Denloob/l-systems)
 - [**AI** sign language recognition](https://github.com/aslearn-AI4Y/aslearn)
 
 Also, below are my most popular repos.

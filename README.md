@@ -34,5 +34,6 @@ If you want to **know my knowns**, visit the [**repos**](https://github.com/Denl
 - [**C++** CTF manager bot](https://github.com/Denloob/flag-catcher)
 - [**C** (Lindenmayer) Rewriting System Engine](https://github.com/Denloob/l-systems)
 - [**AI** sign language recognition](https://github.com/aslearn-AI4Y/aslearn)
+- [**C** library for smartptr and defer](https://github.com/Denloob/c-autoptr)
 
 Also, below are my most popular repos.

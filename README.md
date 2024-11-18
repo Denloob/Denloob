@@ -29,6 +29,7 @@ One can not express their skill set using some *cute* devicons. \
 If you want to **know my knowns**, visit the [**repos**](https://github.com/Denloob?tab=repositories) tab.
 
 ### Repo Highlights
+- [Operating System](https://github.com/Denloob/operating-system)
 - [**CTF** Writeups](https://github.com/Denloob/writeups)
 - [**Go** TCP intercepting proxy](https://github.com/Denloob/protocol-proxy)
 - [**C++** CTF manager bot](https://github.com/Denloob/flag-catcher)

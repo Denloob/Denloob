@@ -12,6 +12,9 @@
    <a href="mailto:den@denloob.uk" title="den@denloob.uk">
     <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/White/Gmail_white.png?raw=true" height="auto" width="50" alt="Mail me"/>
    </a>
+   <a href="https://denloob.uk">
+    <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/White/RSS_white.png?raw=true" height="auto" width="50" alt="My Blog"/>
+   </a>
    <a href="https://ctftime.org/user/133704">
     <img src="images/ctftime.png" height="auto" width="50" alt="My CTF team"/>
    </a>
@@ -27,6 +30,10 @@ I am open to discussing potential projects or opportunities to collaborate and a
 
 One can not express their skill set using some *cute* devicons. \
 If you want to **know my knowns**, visit the [**repos**](https://github.com/Denloob?tab=repositories) tab.
+
+### My Articles
+
+- [Weaknesses of ASLR in the Kernel](https://denloob.uk/posts/weaknesses-of-aslr-in-the-kernel/)
 
 ### Repo Highlights
 - [Operating System](https://github.com/Denloob/operating-system)
